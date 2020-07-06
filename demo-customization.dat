@@ -1,0 +1,8 @@
+a:4:{s:8:"template";s:8:"doxylite";s:4:"mods";a:8:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:12:"primary_menu";i:14;}s:18:"custom_css_post_id";i:2117;s:19:"theme_primary_color";s:7:"#280636";s:11:"custom_logo";i:2119;s:16:"header_textcolor";s:5:"blank";s:16:"sidebars_widgets";a:2:{s:4:"time";i:1582609943;s:4:"data";a:6:{s:19:"wp_inactive_widgets";a:0:{}s:12:"doxy-sidebar";a:5:{i:0;s:8:"search-2";i:1;s:14:"recent-posts-3";i:2;s:11:"tag_cloud-1";i:3;s:17:"recent-comments-2";i:4;s:6:"meta-3";}s:7:"footer1";a:1:{i:0;s:6:"text-1";}s:7:"footer2";a:1:{i:0;s:10:"nav_menu-1";}s:7:"footer3";a:1:{i:0;s:11:"tag_cloud-2";}s:7:"footer4";a:1:{i:0;s:6:"text-2";}}}s:14:"bodytypography";a:11:{s:11:"font-family";s:9:"Open Sans";s:7:"variant";s:7:"regular";s:9:"font-size";s:0:"";s:11:"line-height";s:0:"";s:14:"letter-spacing";s:0:"";s:5:"color";s:0:"";s:14:"text-transform";s:4:"none";s:10:"text-align";s:0:"";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}}s:7:"options";a:2:{s:9:"site_icon";s:4:"2121";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:138:"li#menu-item-63 a {
+    border: 1px solid white;
+    border-radius: 4px;
+}
+li#menu-item-63 a:hover{
+	background: white;
+	color: #280636;
+}";}
